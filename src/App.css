@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body {
+  font-family: "Inter", sans-serif;
+}
+.date-wed{
+  font-family:"Cormorant Garamond", san-serif;
+}
+
+.text-banner{
+  font-family:"Cormorant Garamond", san-serif;
+}
